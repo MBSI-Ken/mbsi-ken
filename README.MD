@@ -32,4 +32,11 @@ For questions about my contributions or authorized MBSI projects:
 
 **Email:** [ksoriano@mbsi2.com.ph](mailto:ksoriano@mbsi2.com.ph)
 
+---
 
+
+<p align="left">
+  <img src="./ksorianoMBSI.png"
+       alt="Kenny Soriano — MBSI contact signature"
+       width="450">
+</p>
