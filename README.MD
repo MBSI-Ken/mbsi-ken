@@ -1,28 +1,35 @@
 # Welcome to My GitHub Profile
 
-> **Note:** This dedicated development space is utilized exclusively for authorized MBSI operational tasks, internal project requirements, professional training, and technical documentation.
+> This GitHub account is used for authorized MBSI work, internal projects, training, and technical documentation.
 
 ---
 
-### 🏢 About This Space
-This account serves as a structured and secure environment dedicated entirely to official business associated with MBSI. Every activity hosted within this profile is aligned with company standards, focusing on operational excellence, continuous professional growth, and clear knowledge management.
+### 🏢 About This Account
 
-### 📋 Core Focus Areas
+I use this account to support my work at **Millennium Business Services, Inc. (MBSI)**. It contains project code, development updates, and guides that help with website maintenance, internal tools, and team collaboration.
 
-* **Operational Tasks & Projects:** 
-  Supporting day-to-day business needs, internal workflows, and authorized project requirements to ensure smooth organizational operations.
+### 📋 What I Work On
 
-* **Professional Training:** 
-  Engaging in structured learning programs, technical upskilling, and authorized educational pathways to enhance job performance and keep pace with industry advancements.
+- **Company Projects:** Build, improve, and maintain websites and tools for approved MBSI projects.
+- **Training:** Learn and practice technical skills relevant to my role.
+- **Documentation:** Write setup instructions, troubleshooting guides, and project notes for future reference and team handover.
 
-* **Documentation:** 
-  Creating, organizing, and maintaining comprehensive technical guides, standard operating procedures, and project documentation for clear team reference and knowledge transfer.
+### 🔒 Privacy and Security
 
----
+- Passwords, access keys, personal information, and confidential company records should not be uploaded.
+- Project files should be reviewed before they are shared.
+- Access to private projects should be limited to authorized people.
 
-### 🔒 Security & Compliance
-* All materials, notes, and records maintained within this profile adhere strictly to internal security policies, data privacy standards, and company governance guidelines.
-* This space is managed responsibly to support both individual productivity and broader organizational goals.
+### 📝 Ownership and Contributions
 
----
-*If you have any questions regarding the contents of this profile or need assistance with authorized MBSI operations, please feel free to reach out.*
+My work includes adding features, fixing issues, and maintaining existing projects. I do not claim ownership of all code or materials in these repositories.
+
+MBSI branding and company materials, third-party software, and other resources remain subject to their owners’ rights and applicable licenses. My contributions do not replace those ownership or license terms.
+
+### 📧 Contact
+
+For questions about my contributions or authorized MBSI projects:
+
+**Email:** [ksoriano@mbsi2.com.ph](mailto:ksoriano@mbsi2.com.ph)
+
+
